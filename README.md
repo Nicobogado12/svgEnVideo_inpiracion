@@ -7,4 +7,3 @@ hay que probar con una imagen svg.
 
 [![31.png](https://i.postimg.cc/XJm9NCrZ/31.png)](https://postimg.cc/qhcNjgX0)
 
-[32.png](https://postimg.cc/rzJd40wN)
